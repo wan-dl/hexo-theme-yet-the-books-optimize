@@ -598,7 +598,8 @@ article pre > code {
 }
 
 p > code {
-    color: #0000f7;
+    color: #ad3da4;
+    font-weight: 500;
 }
 
 li > code {
